@@ -1,0 +1,46 @@
+File Structure
+---------------
+Total lines of code: 37
+
+Imports:
+
+
+Classes:
+Caesar
+
+Functions:
+
+
+Other (Special) Methods:
+__init__
+
+DocStrings:
+---------------
+Caesar: DocString not found.
+
+key: DocString not found.
+
+key: DocString not found.
+
+_shift_char: DocString not found.
+
+encrypt: DocString not found.
+
+decrypt: DocString not found.
+
+Type Annotations Check:
+---------------
+Missing type annotations:
+key
+key
+_shift_char
+encrypt
+decrypt
+
+Naming Convention Check:
+---------------
+All class names follow CamelCase.
+
+Bad function/method names:
+_shift_char
+

@@ -1,0 +1,74 @@
+File Structure
+---------------
+Total lines of code: 152
+
+Imports:
+List
+Path
+ast
+os
+re
+
+Classes:
+
+
+Functions:
+read_source_file
+parse_ast
+get_imports
+get_classes
+get_functions
+get_docstrings
+get_type_annotation_issues
+check_class_naming
+check_function_naming
+get_special_methods
+is_special_method
+add_parents
+write_report
+main
+
+Other (Special) Methods:
+
+
+DocStrings:
+---------------
+read_source_file: DocString not found.
+
+parse_ast: DocString not found.
+
+get_imports: DocString not found.
+
+get_classes: DocString not found.
+
+get_functions: DocString not found.
+
+get_docstrings: DocString not found.
+
+get_type_annotation_issues: DocString not found.
+
+check_class_naming: DocString not found.
+
+check_function_naming: DocString not found.
+
+get_special_methods: DocString not found.
+
+is_special_method: DocString not found.
+
+add_parents: DocString not found.
+
+write_report: DocString not found.
+
+main: DocString not found.
+
+Type Annotations Check:
+---------------
+Missing type annotations:
+main
+
+Naming Convention Check:
+---------------
+All class names follow CamelCase.
+
+All function/method names follow snake_case.
+
